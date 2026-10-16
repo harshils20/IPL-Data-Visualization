@@ -53,38 +53,6 @@ IPL-Data-Visualization/
 └── README.md
 ```
 
-*Note: Include `IPL.csv` in the repository if you have permission to share the dataset.*
-
-## 🚀 How to Run the Project
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-   ```
-
-2. Navigate to the project folder:
-
-   ```bash
-   cd YOUR-REPOSITORY
-   ```
-
-3. Install the required libraries:
-
-   ```bash
-   pip install numpy pandas matplotlib seaborn jupyter
-   ```
-
-4. Ensure that `IPL.csv` is available in the project directory.
-
-5. Launch Jupyter Notebook:
-
-   ```bash
-   jupyter notebook
-   ```
-
-6. Open `IPL_Data_Visualization.ipynb` and run the cells.
-
 ## 💡 Key Learnings
 
 - Performing exploratory data analysis on real-world sports data.
